@@ -2,4 +2,4 @@
 
 This repository contains the code for a simple farcaster frame and was built using this repo as a template - https://github.com/depatchedmode/simplest-frame/tree/main.
 
-Bounty submission for - https://www.bountycaster.xyz/bounty/0x686411b7212b3efde9680dd8ee840a8fdee019e1
+Bounty submission for - https://www.bountycaster.xyz/bounty/0x686411b7212b3efde9680dd8ee840a8fdee019e1# arbitrum-delegates
